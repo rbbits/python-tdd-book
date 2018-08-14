@@ -7,3 +7,4 @@ journal.txt
 .idea/
 .project
 .pydevproject
+/static
